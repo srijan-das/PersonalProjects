@@ -1,0 +1,404 @@
+Financial Sector : 
+
+HDFC Bank Ltd
+Housing Development Finance Corporation Ltd
+Kotak Mahindra Bank Ltd
+ICICI Bank Ltd
+Bajaj Finance Ltd
+State Bank of India
+Axis Bank Ltd
+HDFC Life Insurance Company Ltd
+Bajaj Finserv Ltd
+SBI Life Insurance Company Ltd
+SBI Cards and Payment Services Ltd
+Bandhan Bank Ltd
+ICICI Prudential Life Insurance Company Ltd
+ICICI Lombard General Insurance Company Ltd
+HDFC Asset Management Company Ltd
+IDBI Bank Ltd
+Muthoot Finance Ltd
+Indusind Bank Ltd
+Punjab National Bank
+Piramal Enterprises Ltd
+Yes Bank Ltd
+Bajaj Holdings and Investment Ltd
+General Insurance Corporation of India
+Bank of Baroda Ltd
+Power Finance Corporation Ltd
+REC Ltd
+AU Small Finance Bank Ltd
+New India Assurance Company Ltd
+Nippon Life India Asset Management Ltd
+Shriram Transport Finance Company Ltd
+Indian Overseas Bank
+Cholamandalam Investment and Finance Company Ltd
+ICICI Securities Ltd
+Bank of India Ltd
+IDFC First Bank Ltd
+Canara Bank Ltd
+Max Financial Services Ltd
+Aditya Birla Capital Ltd
+LIC Housing Finance Ltd
+L&T Finance Holdings Ltd
+
+____________________________________________________________________________________________________________________________________________
+
+Real Estate :
+
+DLF Ltd
+Embassy Office Parks REIT
+Godrej Properties Ltd
+Oberoi Realty Ltd
+Phoenix Mills Ltd
+Prestige Estates Projects Ltd
+Indiabulls Real Estate Ltd
+Nesco Ltd
+Brigade Enterprises Ltd
+Sunteck Realty Ltd
+Sobha Ltd
+Omaxe Ltd
+Kolte-Patil Developers Ltd
+Mahindra Lifespace Developers Ltd
+Puravankara Ltd
+Anant Raj Ltd
+Ashiana Housing Ltd
+Unitech Ltd
+Texmaco Infrastructure & Holdings Ltd
+Indiabulls Integrated Services Ltd
+Karda Constructions Ltd
+Oswal Greentech Ltd
+Arvind Smartspaces Ltd
+Ajmera Realty & Infra India Ltd
+Prozone Intu Properties Ltd
+Marathon Nextgen Realty Ltd
+Vipul Ltd
+Nila Infrastructures Ltd
+D B Realty Ltd
+Housing Development and Infrastructure Ltd
+Parsvnath Developers Ltd
+GeeCee Ventures Ltd
+Oswal Agro Mills Ltd
+Ganesh Housing Corp Ltd
+Poddar Housing and Development Ltd
+Future Market Networks Ltd
+Peninsula Land Ltd
+Emami Realty Ltd
+TCI Developers Ltd
+Arihant Superstructures Ltd
+
+____________________________________________________________________________________________________________________________________________
+
+Consumer Discretionary:
+
+Maruti Suzuki India Ltd
+Avenue Supermarts Ltd
+Titan Company Ltd
+Bajaj Auto Ltd
+Mahindra and Mahindra Ltd
+Hero MotoCorp Ltd
+Bosch Ltd
+Tata Motors Ltd
+Tata Motors Ltd - DVR
+Motherson Sumi Systems Ltd
+Whirlpool of India Ltd
+MRF Ltd
+Balkrishna Industries Ltd
+SRF Ltd
+Trent Ltd
+Page Industries Ltd
+Jubilant Foodworks Ltd
+Voltas Ltd
+TVS Motor Company Ltd
+Bata India Ltd
+Relaxo Footwears Ltd
+Crompton Greaves Consumer Electricals Ltd
+Rajesh Exports Ltd
+Wabco India Ltd
+Endurance Technologies Ltd (CN)
+Schaeffler India Ltd
+Aditya Birla Fashion and Retail Ltd
+Indian Hotels Company Ltd
+Alok Industries Ltd
+Tube Investments of India Ltd
+Sundram Fasteners Ltd
+Minda Industries Ltd
+TTK Prestige Ltd
+Dixon Technologies (India) Ltd
+Sheela Foam Ltd
+Apollo Tyres Limited
+Symphony Ltd
+Johnson Controls-Hitachi Air Conditioning India Ltd
+Future Retail Ltd
+Amber Enterprises India Ltd
+
+____________________________________________________________________________________________________________________________________________
+
+Consumer Staples:  
+
+Hindustan Unilever Ltd
+ITC Ltd
+Nestle India Ltd
+Britannia Industries Ltd
+Dabur India Ltd
+Godrej Consumer Products Ltd
+United Spirits Ltd
+Marico Ltd
+Tata Consumer Products Ltd
+Colgate-Palmolive (India) Ltd
+Procter & Gamble Hygiene and Health Care Ltd
+Ruchi Soya Industries Ltd
+United Breweries Ltd
+Varun Beverages Ltd
+Gillette India Ltd
+Hatsun Agro Product Ltd
+Emami Ltd
+Godrej Agrovet Ltd
+Bombay Burmah Trading Corporation Ltd
+Zydus Wellness Ltd
+Avanti Feeds Ltd
+KRBL Ltd
+Radico Khaitan Ltd
+VST Industries Ltd
+Godfrey Phillips India Ltd
+E.I.D-Parry (India) Ltd
+Jyothy Labs Ltd
+Kaveri Seed Company Ltd
+CCL Products India Ltd
+Tasty Bite Eatables Ltd
+Balrampur Chini Mills Ltd
+Future Consumer Ltd
+Bajaj Consumer Care Ltd
+Shree Renuka Sugars Ltd
+Gujarat Ambuja Exports Ltd
+Tata Coffee Ltd
+Venky's (India) Ltd
+LT Foods Ltd
+Triveni Engineering and Industries Ltd
+Prataap Snacks Ltd
+
+____________________________________________________________________________________________________________________________________________
+
+Communication Services :
+
+Bharti Airtel Ltd
+Bharti Infratel Ltd
+Info Edge (India) Ltd
+Vodafone Idea Ltd
+Indian Railway Catering and Tourism Corporation Ltd
+Tata Communications Ltd
+Zee Entertainment Enterprises Ltd
+Sun Tv Network Ltd
+ITI Ltd
+IndiaMART InterMESH Ltd
+TV18 Broadcast Ltd
+PVR Ltd
+Hathway Cable and Datacom Ltd
+Sterlite Technologies Ltd
+Affle (India) Ltd
+Network18 Media & Investments Ltd
+DEN Networks Ltd
+Just Dial Ltd
+INOX Leisure Ltd
+HFCL Ltd
+Navneet Education Ltd
+DB Corp Ltd
+Dish TV India Ltd
+TV Today Network Ltd
+GTL Infrastructure Ltd
+Jagran Prakashan Ltd
+Matrimony.Com Ltd
+Vindhya Telelinks Ltd
+NXTDigital Ltd
+Balaji Telefilms Ltd
+GTPL Hathway Ltd
+Saregama India Ltd
+Tata Teleservices (Maharashtra) Ltd
+Mahanagar Telephone Nigam Ltd
+Entertainment Network (India) Ltd
+Music Broadcast Ltd
+Jump Networks Ltd
+MPS Ltd
+Reliance Communications Ltd
+Tejas Networks Ltd
+
+____________________________________________________________________________________________________________________________________________
+
+Health Care :
+
+Sun Pharmaceutical Industries Ltd
+Dr.Reddy's Laboratories Ltd
+Divi's Laboratories Ltd
+Cipla Ltd
+Biocon Ltd
+Aurobindo Pharma Ltd
+Torrent Pharmaceuticals Ltd
+Lupin Ltd
+Cadila Healthcare Ltd
+Abbott India Ltd
+Alkem Laboratories Ltd
+GlaxoSmithKline Pharmaceuticals Ltd
+IPCA Laboratories Ltd
+Apollo Hospitals Enterprise Ltd
+Pfizer Ltd
+Alembic Pharmaceuticals Ltd
+Sanofi India Ltd
+Syngene International Ltd
+Dr. Lal PathLabs Ltd
+Ajanta Pharma Ltd
+Natco Pharma Ltd
+Glenmark Pharmaceuticals Ltd
+Jubilant Life Sciences Ltd
+Fortis Healthcare Ltd
+Astrazeneca Pharma India Ltd
+Metropolis Healthcare Ltd
+Procter & Gamble Health Ltd
+Suven Pharmaceuticals Ltd
+Laurus Labs Ltd
+Aster DM Healthcare Ltd
+Eris Lifesciences Ltd
+Narayana Hrudayalaya Ltd
+Granules India Ltd
+J B Chemicals and Pharmaceuticals Ltd
+Sun Pharma Advanced Research Co Ltd
+Shilpa Medicare Ltd
+F D C Ltd
+Strides Pharma Science Ltd
+Aarti Drugs Ltd
+Poly Medicure Ltd
+
+____________________________________________________________________________________________________________________________________________
+
+Industrial Services :
+
+Larsen & Toubro Ltd
+Adani Ports and Special Economic Zone Ltd
+Eicher Motors Ltd
+Siemens Ltd
+Interglobe Aviation Ltd
+Havells India Ltd
+Hindustan Aeronautics Ltd
+Container Corporation of India Ltd
+3M India Ltd
+ABB India Ltd
+Adani Enterprises Ltd
+AIA Engineering Ltd
+Ashok Leyland Ltd
+L&T Technology Services Ltd
+Bharat Heavy Electricals Ltd
+Escorts Ltd
+Astral Poly Technik Ltd
+Exide Industries Ltd
+Polycab India Ltd
+GMR Infrastructure Ltd
+Amara Raja Batteries Ltd
+Cummins India Ltd
+Thermax Limited
+SKF India Ltd
+Bharat Dynamics Ltd
+Timken India Ltd
+V Guard Industries Ltd
+KEC International Ltd
+RITES Ltd
+Kajaria Ceramics Ltd
+GMM Pfaudler Ltd
+Finolex Industries Ltd
+Grindwell Norton Ltd
+Security and Intelligence Services (INDIA) Ltd
+Quess Corp Ltd
+Westlife Development Ltd
+Carborundum Universal Ltd
+Ratnamani Metals and Tubes Ltd
+Blue Dart Express Ltd
+NBCC (India) Ltd
+
+____________________________________________________________________________________________________________________________________________
+
+Materials :
+
+Asian Paints Ltd
+UltraTech Cement Ltd
+Coal India Ltd
+Shree Cement Ltd
+Hindustan Zinc Ltd
+Pidilite Industries Ltd
+Berger Paints India Ltd
+JSW Steel Ltd
+Vedanta Ltd
+Grasim Industries Ltd
+Ambuja Cements Ltd
+Tata Steel Ltd
+Hindalco Industries Ltd
+UPL Ltd
+Bayer CropScience Ltd
+NMDC Ltd
+ACC Ltd
+PI Industries Ltd
+Kansai Nerolac Paints Ltd
+Coromandel International Ltd
+Jindal Steel And Power Ltd
+Bharat Forge Ltd
+Aarti Industries Ltd
+Ramco Cements Ltd
+Steel Authority of India Ltd
+Supreme Industries Ltd
+Atul Ltd
+Sumitomo Chemical India Ltd
+Dalmia Bharat Ltd
+Godrej Industries Ltd
+Castrol India Ltd
+J K Cement Ltd
+Vinati Organics Ltd
+Solar Industries India Ltd
+Navin Fluorine International Ltd
+Akzo Nobel India Ltd
+Tata Chemicals Ltd
+Deepak Nitrite Ltd
+National Aluminium Co Ltd
+Chambal Fertilisers and Chemicals 
+
+____________________________________________________________________________________________________________________________________________
+
+IT Services:
+
+Tata Consultancy Services Ltd
+Infosys Ltd
+HCL Technologies Ltd
+Wipro Ltd
+Tech Mahindra Ltd
+Larsen & Toubro Infotech Ltd
+Honeywell Automation India Ltd
+Bharat Electronics Ltd
+Oracle Financial Services Software Ltd
+Mphasis Ltd
+MindTree Ltd
+Hexaware Technologies Ltd
+NIIT Technologies Ltd
+Tata Elxsi Ltd
+Persistent Systems Ltd
+Infibeam Avenues Ltd
+Redington (India) Ltd
+Vakrangee Ltd
+Firstsource Solutions Ltd
+Zensar Technologies Ltd
+Cyient Ltd
+Birlasoft Ltd
+Sonata Software Ltd
+Eclerx Services Ltd
+KPIT Technologies Ltd
+Intellect Design Arena Ltd
+Accelya Solutions India Ltd
+Hinduja Global Solutions Ltd
+R Systems International Ltd
+Tanla Solutions Ltd
+Newgen Software Technologies Ltd
+Astra Micro Wave Products Ltd
+Majesco Ltd
+Mastek Ltd
+AGC Networks Ltd
+Nucleus Software Exports Ltd
+Cigniti Technologies Ltd
+Quick Heal Technologies Ltd
+Sasken Technologies Ltd
+Genus Power Infrastructures Ltd
+
+____________________________________________________________________________________________________________________________________________
